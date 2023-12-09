@@ -1,4 +1,4 @@
-# research_sales_forecast_models
+# forecast_modelling
 store related topics and resources
 
 Croston model
